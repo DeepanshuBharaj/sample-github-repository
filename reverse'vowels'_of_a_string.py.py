@@ -14,6 +14,7 @@ class solution():
                  
                 left+=1
                 right-=1
+        s="".join(s)
         print(s)
         return s
 
